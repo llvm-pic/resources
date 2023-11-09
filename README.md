@@ -16,3 +16,4 @@ Useful resources for implementing an PIC LLVM Backend
 
 - [PIC instruction listings](https://en.wikipedia.org/wiki/PIC_instruction_listings)
 - [MPLAB® Integrated Programming Environment (IPE)](https://www.microchip.com/en-us/tools-resources/production/mplab-integrated-programming-environment) for programming a PIC with a given Intel HEX file
+- [Microchips INHX8M file format](https://www.lucidtechnologies.info/inhx8m.htm)
