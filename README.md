@@ -1,6 +1,10 @@
 # resources
 Useful resources for implementing an PIC LLVM Backend
 
+## LLVM MOS
+
+- [LLVM MOS Landing Page](https://llvm-mos.org/wiki/Welcome)
+
 ## LLVM Guides
 
 - [Overview on creating an LLVM backend](https://llvm.org/docs/WritingAnLLVMBackend.html)
